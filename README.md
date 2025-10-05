@@ -5,9 +5,9 @@ Read the problem statement in `Battleship.docx` and `Battleship - PPT.pdf`. This
 
 ## Your Team:
 List out the QFF-Registered email IDs of people in your team here:
-- email1@example.com
-- email2@example.com
-- email3@example.com
+- satyarth.gupta@research.iiit.ac.in
+- udit.bajoriya@students.iiit.ac.in
+- masood.shahid@students.iiit.ac.in 
 
 ## Your Solution:
 **Document your approach and results here.** Include:
